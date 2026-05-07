@@ -1,0 +1,1 @@
+wget -P seeds -r -np -nd -A "*.ply" https://people.sc.fsu.edu/~jburkardt/data/ply/
